@@ -4,6 +4,10 @@
 
 The Fitness Tracker App is a Flutter-based application designed to help users track their workouts and fitness goals. Users can log exercises, set fitness goals, and view their workout history. The app provides a user-friendly interface and allows for easy management of fitness activities.
 
+### Programming Language
+
+- **Dart**
+
 ## Features
 
 - **Log Exercises**: Users can add various exercises, including gym workouts and cardio activities.
